@@ -1,0 +1,13 @@
+{
+  "name": "oop-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/ex2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
